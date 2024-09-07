@@ -1,3 +1,4 @@
+//Aplicacion de climna
 let api_key = '94c4f0e22099b52375156733fe26b445';
 let defKelvin = 273.15;
 let urlBase = 'https://api.openweathermap.org/data/2.5/weather';
